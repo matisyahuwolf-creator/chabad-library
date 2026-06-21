@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: USERNAME.github.io/chabad-library
+  baseUrl: matisyahuwolf-creator.github.io/chabad-library
   ignorePatterns:
     - private
     - templates
