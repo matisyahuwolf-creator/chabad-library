@@ -29,7 +29,7 @@ source was read from a scanned page (OCR), that is said, and its wording is appr
 | **Mystical: internal unity** (pure awareness, loss of the usual self) | *Bittul bimetzius* (nullification of existence); *yichuda ila'ah* (the higher unity, "all is as nothing before Him") | A state in which the separate self does not register is real and high | The *wish* to be absorbed is itself a form of self (§5). Dissolution is not the goal; a self that serves is |
 | **Mystical: external unity** ("all is One") | *Yichuda tata'ah* (the lower unity); Shaar HaYichud ch. 3, "the vitality and spirituality in every creature" | The world can be known as nullified to the divine life in it | It is reached by understanding, not by perception, and the two unities must be joined (§3) |
 | **Mystical: noetic quality** (certainty of contact with ultimate reality) | *Da'as*: binding the mind and holding it | Real contemplative knowing has a felt certainty | Certainty from a feeling is the counterfeit's signature; *da'as* is a held understanding, tested by what grows out of it (§6) |
-| **Mystical: sacredness** (awe, holiness) | *Kedushah* defined as *bittul*: what is nullified to G-d is holy (Tanya ch. 6) | Holiness is a real quality of the moment | Holiness is measured by how little the self is felt, not by how strongly the holy is felt (§2) |
+| **Mystical: sacredness** (awe, holiness) | *Kedushah* tied to *bittul*: G-d's holiness "rests only on what is nullified to Him" («אֵין הַקָּדוֹשׁ־בָּרוּךְ־הוּא שׁוֹרֶה אֶלָּא עַל דָּבָר שֶׁבָּטֵל אֶצְלוֹ», Tanya 6:5) | Holiness is a real quality of the moment | Holiness is measured by how little the self is felt, not by how strongly the holy is felt (§2) |
 | **Positive mood** (joy, peace, ecstasy) | *Hispa'alus* (arousal), *simcha*, *ahavah b'taanugim* (love of delights) | Chassidus wants arousal; it is not a cold discipline | Felt intensity is ranked *low*; heat can be a sign of distance (§2) |
 | **Transcendence of time and space** | *Lema'alah min hazman* (above time) | The Essence is above time and place | This is a teaching to be understood, not a perceptual marker of depth |
 | **Ineffability** | The *niggun* (wordless melody); the "cry of the heart" beyond letters | What touches the point of the soul cannot be put into letters | Ineffability is a rung, not proof; the next rung is to bring it back into words and deeds |
@@ -87,7 +87,10 @@ remains of it but what touches the heart's arousal" (Kuntres HaHitpa'alut 14:2).
 **What this adds.** The MEQ30 cannot separate two people who both rate "experience of
 amazement" a 5: one who was flooded with self-feeling, and one in whom the self barely
 registered. Chassidus says these are opposite states. **Untested:** whether self-salience
-*during* the peak (not after) predicts persisting change, independent of MEQ score.
+*during* the peak (not after) predicts persisting change, independent of MEQ score. One
+language analysis found psychedelic reports more emotionally charged than meditation reports
+with similar content (Kallio-Mannila et al. 2025; [page 3](3-beyond-the-drug.md)), which is
+consistent with the claim but does not test it.
 
 ---
 
@@ -293,7 +296,7 @@ life of the flesh.* (Kuntres HaHitpa'alut 7:3)
 
 ---
 
-## 8. On substances: the Chabad record is not abstinence
+## 8. On substances: wine at the farbrengen, no to LSD
 
 Chassidim drink *mashke* (spirits) at a *farbrengen*, a gathering for mutual encouragement.
 The sources treat it as a real opener and a real risk.
@@ -314,9 +317,24 @@ Rebbe: «דאס וואס עס קען אויפטאן א חסידישער פארב
 (Igros Kodesh vol. 16, §5921:8, and elsewhere).
 
 **Ours.** That is close to the modern model: a substance opens, the opening carries dross,
-and a community with a shared language does the cleaning. It is **not** an endorsement of
-psychedelics, which no Chabad source here addresses, and nothing on this site is advice to
-use them. Halachic questions about psychedelic therapy belong to a rabbinic authority.
+and a community with a shared language does the cleaning.
+
+**But on psychedelics the Rebbe was explicit.** Asked in 1964 whether LSD could bring
+spiritual heights, he wrote that "Biochemistry is not my field, and I cannot express an opinion
+on the drug you mention," but that using it "is not the proper way to attain mystical
+inspiration": "The Jewish way is to go from strength to strength," drugs "have a place only if
+they are necessary for the physical health," and "before any drugs are taken one should first
+utilize all one's natural capacities" (letter of 20 Marcheshvan 5725 [26 October 1964],
+chabad.org; **VERIFIED**). In 1972 he spoke of drugs spreading among youth as a harm
+(Toras Menachem vol. 70, 19 Kislev 5733). And from 1977 to 1979 he pressed physicians to build a
+*therapeutic* meditation free of idolatry, for anyone, without the word "mystic"
+([page 3, §6](3-beyond-the-drug.md)).
+
+So the Chabad position on record is: no to drugs as a route to the spiritual; yes, in principle,
+to medicine for health; and a strong push for natural, measured, therapeutic contemplation.
+Whether psilocybin given as a licensed medicine falls under "necessary for the physical health"
+is a question the 1964 letter, written before any such trials, does not settle. Halachic
+questions belong to a rabbinic authority, and nothing on this site is advice to use any substance.
 
 ---
 

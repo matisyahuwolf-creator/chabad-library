@@ -13,6 +13,12 @@ psychedelic literature; the Chassidus-derived measures sit beside it, not in pla
 **Status of everything on this page: Ours, untested.** The draft items below are proposals.
 None has been piloted, translated, or validated.
 
+**A precedent.** In 1978 the Lubavitcher Rebbe urged physicians to "start immediately a pilot
+clinic" for a non-idolatrous therapeutic meditation, open to all, and advised against the word
+"mystic" ([page 3, §6](3-beyond-the-drug.md)). A measured, published study of Chabad
+contemplation is in the line of that request, so long as the therapeutic and the devotional
+are kept distinct.
+
 ---
 
 ## 1. Seven constructs the MEQ30 does not capture
@@ -95,6 +101,11 @@ Any of these would be a real finding and should be published as one.
   target states before the experience.
 - **Absorption** predicts mystical-type reports in drug, placebo and prayer contexts alike
   ([page 3](3-beyond-the-drug.md)). Measure it and control for it.
+- **Framing.** In a Centering Prayer RCT, religious framing did not raise MEQ scores over secular
+  framing (Rohde et al. 2024). If the MEQ cannot see what is religiously specific, that is a
+  reason for the added constructs, and a reason not to expect group differences on the MEQ alone.
+- **Hisbonenus is constructive, not deconstructive** (Dahl, Lutz & Davidson 2015 typology). Do
+  not borrow effect sizes or adverse-effect rates from deconstructive meditation without saying so.
 - **Retrospective ratings** of a peak drift with time and with the person's later framework.
   Rate as close to the event as possible.
 - **Chabad terms are not diagnoses.** "Felt self" and "exit orientation" are research

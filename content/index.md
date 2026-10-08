@@ -41,6 +41,9 @@ original (Hebrew / Yiddish / Aramaic) and in English where a translation exists.
   (*maamar* vs. *sicha* vs. *igros* vs. halacha vs. kabbalah).
 - **[digital-sources-guide.md](digital-sources-guide.md)** — every major digital library:
   what it holds, free vs. paid, languages, English coverage, and how to use it.
+- **[Mystical experience: a research framework](mystical-experience/index.md)** — the
+  Mystical Experience Questionnaire (MEQ30), the psychedelic research built on it, and what
+  Chabad contemplation (*hisbonenus*) adds, with verified sources and testable hypotheses.
 - **Per-Rebbe complete-works catalogs** (each: header → bio → corpus-at-a-glance → works by
   category with per-work title/type/language/extent/date/description/original-link/English-link
   → scope & caveats):
