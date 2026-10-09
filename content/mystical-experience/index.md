@@ -29,6 +29,7 @@ can be turned into a measurement, and none has been tested.
 | 3 | [Beyond the drug](3-beyond-the-drug.md) | Mystical experience in meditation and prayer measured with the same tools; absorption and expectancy; contemplative adverse effects; the gap in Jewish research; and the history: the Rebbe's 1964 letter on LSD, his 1977–79 call for a "kosher" therapeutic meditation, Reb Zalman Schachter-Shalomi, and Jewish psychedelic work today |
 | 4 | [What Chabad Chassidus adds](4-what-chassidus-adds.md) | A factor-by-factor map, nine contributions and the places Chassidus does not simply correct the science; sources from Kuntres HaHitpa'alut, the Tanya, Hemshech Ayin Beis and the Rebbe's sichos, with verified Hebrew |
 | 5 | [A research program](5-research-program.md) | Seven new constructs, six falsifiable hypotheses, four study designs, cautions, ethics |
+| 6 | [Translation glossary](6-translation-glossary.md) | 23 entries pairing the words people use (ego death, oneness, bliss, insight, integration, bad trip) with the Chabad term, where they agree, where they differ, and what a guide should ask |
 | — | [Bibliography](bibliography.md) | Every source, with how far it was checked |
 
 ---
